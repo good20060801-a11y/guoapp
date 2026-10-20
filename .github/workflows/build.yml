@@ -246,3 +246,4 @@ jobs:
           else
             gh release create "$tag" release/* --title "红果鉴 / 真果鉴 ${version}" --notes-file notes.md
           fi
+--all-sources
